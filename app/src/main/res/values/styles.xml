@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="toaststyle">
+        <item name="stTextBold">true</item>
+        <item name="stTextColor">#0033cc</item>
+        <item name="stTextSize">15sp</item>
+        <item name="stColorBackground">#ccf2ff</item>
+        <item name="stStrokeWidth">2sp</item>
+        <item name="stStrokeColor">#ccf2ff</item>
+        <item name="stIconStart">@drawable/ic_baseline_payments_24</item>
+        <item name="stLength">LONG</item>
+        <item name="stGravity">center</item>
+        <item name="stRadius">5dp</item>
+        <item name="stSolidBackground">true</item>
+
+
+    </style>
+</resources>
