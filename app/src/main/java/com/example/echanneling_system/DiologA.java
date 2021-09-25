@@ -27,3 +27,4 @@ public class DiologA extends AppCompatDialogFragment {
         return build1.create();
     }
 }
+// file1
